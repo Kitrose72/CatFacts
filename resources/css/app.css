@@ -1,0 +1,17 @@
+.card {
+  min-height: 260px;
+  margin: 10px;
+  border-color: #052c65;
+  background-color: #052c65;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+
+.catFactInput {
+  margin-left: 10px;
+  width: 50px;
+  text-align: center;
+}
